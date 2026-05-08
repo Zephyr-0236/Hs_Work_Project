@@ -1,0 +1,15 @@
+..\output\phali15693_sw.o: ..\CLRC663\comps\phalI15693\src\Sw\phalI15693_Sw.c
+..\output\phali15693_sw.o: ../CLRC663/types/ph_Status.h
+..\output\phali15693_sw.o: ../CLRC663/types/ph_NxpBuild.h
+..\output\phali15693_sw.o: ../CLRC663/types/ph_TypeDefs.h
+..\output\phali15693_sw.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\phali15693_sw.o: ../CLRC663/intfs/phhalHw.h
+..\output\phali15693_sw.o: ../CLRC663/intfs/phbalReg.h
+..\output\phali15693_sw.o: ../CLRC663/intfs/phhalHw_Rc663_Reg.h
+..\output\phali15693_sw.o: ../CLRC663/intfs/phhalHw_Rc663_Cmd.h
+..\output\phali15693_sw.o: ../CLRC663/intfs/phhalHw.h
+..\output\phali15693_sw.o: ../CLRC663/intfs/phpalSli15693.h
+..\output\phali15693_sw.o: ../CLRC663/intfs/phalI15693.h
+..\output\phali15693_sw.o: ../CLRC663/types/ph_RefDefs.h
+..\output\phali15693_sw.o: ..\CLRC663\comps\phalI15693\src\Sw\phalI15693_Sw.h
+..\output\phali15693_sw.o: ..\CLRC663\comps\phalI15693\src\Sw\phalI15693_Sw_Int.h

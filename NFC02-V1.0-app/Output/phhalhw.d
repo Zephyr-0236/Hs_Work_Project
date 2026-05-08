@@ -1,0 +1,12 @@
+..\output\phhalhw.o: ..\CLRC663\comps\phhalHw\src\phhalHw.c
+..\output\phhalhw.o: ../CLRC663/intfs/phhalHw.h
+..\output\phhalhw.o: ../CLRC663/types/ph_Status.h
+..\output\phhalhw.o: ../CLRC663/types/ph_NxpBuild.h
+..\output\phhalhw.o: ../CLRC663/types/ph_TypeDefs.h
+..\output\phhalhw.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\phhalhw.o: ../CLRC663/intfs/phbalReg.h
+..\output\phhalhw.o: ../CLRC663/intfs/phhalHw_Rc663_Reg.h
+..\output\phhalhw.o: ../CLRC663/intfs/phhalHw_Rc663_Cmd.h
+..\output\phhalhw.o: ../CLRC663/intfs/phhalHw.h
+..\output\phhalhw.o: ../CLRC663/types/ph_RefDefs.h
+..\output\phhalhw.o: ..\CLRC663\comps\phhalHw\src\Rc663/phhalHw_Rc663.h

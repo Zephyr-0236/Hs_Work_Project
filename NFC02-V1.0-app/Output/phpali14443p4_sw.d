@@ -1,0 +1,14 @@
+..\output\phpali14443p4_sw.o: ..\CLRC663\comps\phpalI14443p4\src\Sw\phpalI14443p4_Sw.c
+..\output\phpali14443p4_sw.o: ../CLRC663/types/ph_Status.h
+..\output\phpali14443p4_sw.o: ../CLRC663/types/ph_NxpBuild.h
+..\output\phpali14443p4_sw.o: ../CLRC663/types/ph_TypeDefs.h
+..\output\phpali14443p4_sw.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\phpali14443p4_sw.o: ../CLRC663/intfs/phhalHw.h
+..\output\phpali14443p4_sw.o: ../CLRC663/intfs/phbalReg.h
+..\output\phpali14443p4_sw.o: ../CLRC663/intfs/phhalHw_Rc663_Reg.h
+..\output\phpali14443p4_sw.o: ../CLRC663/intfs/phhalHw_Rc663_Cmd.h
+..\output\phpali14443p4_sw.o: ../CLRC663/intfs/phhalHw.h
+..\output\phpali14443p4_sw.o: ../CLRC663/intfs/phpalI14443p4.h
+..\output\phpali14443p4_sw.o: ../CLRC663/types/ph_RefDefs.h
+..\output\phpali14443p4_sw.o: ..\CLRC663\comps\phpalI14443p4\src\Sw\phpalI14443p4_Sw_Int.h
+..\output\phpali14443p4_sw.o: ..\CLRC663\comps\phpalI14443p4\src\Sw\phpalI14443p4_Sw.h

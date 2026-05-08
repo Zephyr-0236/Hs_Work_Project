@@ -1,0 +1,14 @@
+..\output\phkeystore.o: ..\CLRC663\comps\phKeyStore\src\phKeyStore.c
+..\output\phkeystore.o: ../CLRC663/types/ph_Status.h
+..\output\phkeystore.o: ../CLRC663/types/ph_NxpBuild.h
+..\output\phkeystore.o: ../CLRC663/types/ph_TypeDefs.h
+..\output\phkeystore.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\phkeystore.o: ../CLRC663/intfs/phKeyStore.h
+..\output\phkeystore.o: ../CLRC663/intfs/phhalHw.h
+..\output\phkeystore.o: ../CLRC663/intfs/phbalReg.h
+..\output\phkeystore.o: ../CLRC663/intfs/phhalHw_Rc663_Reg.h
+..\output\phkeystore.o: ../CLRC663/intfs/phhalHw_Rc663_Cmd.h
+..\output\phkeystore.o: ../CLRC663/intfs/phhalHw.h
+..\output\phkeystore.o: ../CLRC663/types/ph_RefDefs.h
+..\output\phkeystore.o: ..\CLRC663\comps\phKeyStore\src\phKeyStore_Int.h
+..\output\phkeystore.o: ..\CLRC663\comps\phKeyStore\src\Rc663/phKeyStore_Rc663.h

@@ -1,0 +1,13 @@
+..\output\phpali14443p3a.o: ..\CLRC663\comps\phpalI14443p3a\src\phpalI14443p3a.c
+..\output\phpali14443p3a.o: ../CLRC663/types/ph_Status.h
+..\output\phpali14443p3a.o: ../CLRC663/types/ph_NxpBuild.h
+..\output\phpali14443p3a.o: ../CLRC663/types/ph_TypeDefs.h
+..\output\phpali14443p3a.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\phpali14443p3a.o: ../CLRC663/intfs/phpalI14443p3a.h
+..\output\phpali14443p3a.o: ../CLRC663/intfs/phhalHw.h
+..\output\phpali14443p3a.o: ../CLRC663/intfs/phbalReg.h
+..\output\phpali14443p3a.o: ../CLRC663/intfs/phhalHw_Rc663_Reg.h
+..\output\phpali14443p3a.o: ../CLRC663/intfs/phhalHw_Rc663_Cmd.h
+..\output\phpali14443p3a.o: ../CLRC663/intfs/phhalHw.h
+..\output\phpali14443p3a.o: ../CLRC663/types/ph_RefDefs.h
+..\output\phpali14443p3a.o: ..\CLRC663\comps\phpalI14443p3a\src\Sw/phpalI14443p3a_Sw.h

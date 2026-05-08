@@ -1,0 +1,14 @@
+..\output\phpalsli15693_sw.o: ..\CLRC663\comps\phpalSli15693\src\Sw\phpalSli15693_Sw.c
+..\output\phpalsli15693_sw.o: ../CLRC663/types/ph_Status.h
+..\output\phpalsli15693_sw.o: ../CLRC663/types/ph_NxpBuild.h
+..\output\phpalsli15693_sw.o: ../CLRC663/types/ph_TypeDefs.h
+..\output\phpalsli15693_sw.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\phpalsli15693_sw.o: ../CLRC663/intfs/phhalHw.h
+..\output\phpalsli15693_sw.o: ../CLRC663/intfs/phbalReg.h
+..\output\phpalsli15693_sw.o: ../CLRC663/intfs/phhalHw_Rc663_Reg.h
+..\output\phpalsli15693_sw.o: ../CLRC663/intfs/phhalHw_Rc663_Cmd.h
+..\output\phpalsli15693_sw.o: ../CLRC663/intfs/phhalHw.h
+..\output\phpalsli15693_sw.o: ../CLRC663/intfs/phpalSli15693.h
+..\output\phpalsli15693_sw.o: ../CLRC663/types/ph_RefDefs.h
+..\output\phpalsli15693_sw.o: ..\CLRC663\comps\phpalSli15693\src\Sw\phpalSli15693_Sw.h
+..\output\phpalsli15693_sw.o: ..\CLRC663\comps\phpalSli15693\src\Sw\phpalSli15693_Sw_Int.h

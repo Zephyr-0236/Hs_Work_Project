@@ -1,0 +1,10 @@
+..\output\phbalreg_stub.o: ..\CLRC663\comps\phbalReg\src\Stub\phbalReg_Stub.c
+..\output\phbalreg_stub.o: ../CLRC663/types/ph_Status.h
+..\output\phbalreg_stub.o: ../CLRC663/types/ph_NxpBuild.h
+..\output\phbalreg_stub.o: ../CLRC663/types/ph_TypeDefs.h
+..\output\phbalreg_stub.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\phbalreg_stub.o: ../CLRC663/intfs/phbalReg.h
+..\output\phbalreg_stub.o: ../CLRC663/types/ph_RefDefs.h
+..\output\phbalreg_stub.o: ..\CLRC663\comps\phbalReg\src\Stub\phbalReg_Stub.h
+..\output\phbalreg_stub.o: ../CLRC663/phSubBal/include/RegCtl_I2cHw.h
+..\output\phbalreg_stub.o: ../CLRC663/phSubBal/include/RegCtl_SpiHw.h

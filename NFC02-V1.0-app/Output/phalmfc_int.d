@@ -1,0 +1,14 @@
+..\output\phalmfc_int.o: ..\CLRC663\comps\phalMfc\src\phalMfc_Int.c
+..\output\phalmfc_int.o: ../CLRC663/types/ph_Status.h
+..\output\phalmfc_int.o: ../CLRC663/types/ph_NxpBuild.h
+..\output\phalmfc_int.o: ../CLRC663/types/ph_TypeDefs.h
+..\output\phalmfc_int.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\output\phalmfc_int.o: ../CLRC663/intfs/phhalHw.h
+..\output\phalmfc_int.o: ../CLRC663/intfs/phbalReg.h
+..\output\phalmfc_int.o: ../CLRC663/intfs/phhalHw_Rc663_Reg.h
+..\output\phalmfc_int.o: ../CLRC663/intfs/phhalHw_Rc663_Cmd.h
+..\output\phalmfc_int.o: ../CLRC663/intfs/phhalHw.h
+..\output\phalmfc_int.o: ../CLRC663/intfs/phalMfc.h
+..\output\phalmfc_int.o: ../CLRC663/intfs/phpalMifare.h
+..\output\phalmfc_int.o: ..\CLRC663\comps\phalMfc\src\phalMfc_Int.h
+..\output\phalmfc_int.o: ../CLRC663/types/ph_RefDefs.h
